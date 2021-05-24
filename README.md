@@ -1,5 +1,8 @@
-SUMMARY OF WHAT I HAVE DONE IN THIS LEARNING NOTEBOOK
-(Source: 'Introduction to Machine Learning using Python' by Andreas C. Müller & Sarah Guido)
+# IRIS FLOWER DATASET
+
+### SUMMARY OF WHAT I HAVE DONE IN THIS LEARNING NOTEBOOK
+
+#### (Source: 'Introduction to Machine Learning using Python' by Andreas C. Müller & Sarah Guido)
 
 The Iris dataset consists of two NumPy arrays: one containing the data, which is
 referred to as X in scikit-learn , and one containing the correct or desired outputs,
