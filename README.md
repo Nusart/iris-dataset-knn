@@ -1,6 +1,6 @@
 # IRIS FLOWER DATASET
 
-### SUMMARY OF WHAT I HAVE DONE IN THIS LEARNING NOTEBOOK
+### SUMMARY OF WHAT I UNDERSTOOD FROM THIS LEARNING NOTEBOOK
 
 #### (Source: 'Introduction to Machine Learning using Python' by Andreas C. Müller & Sarah Guido)
 
